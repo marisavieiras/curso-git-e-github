@@ -1,0 +1,9 @@
+Esse arquivo está vazio! Por favor, coloque aqui os seguintes dados:
+
+Seu nome:
+
+Sua cidade:
+
+Algo que você gosta muito:
+
+Data de hoje:
