@@ -3,4 +3,4 @@
 
 <h1> Titulo h1 </h1>
 
-<img src="https://bccpassos.github.io/encomp/imagens/albert.png" alt="amor da minha vida" style="widht=200px">
+<img src="https://bccpassos.github.io/encomp/imagens/albert.png" alt="amor da minha vida" style="widht=200">
