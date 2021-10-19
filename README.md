@@ -16,7 +16,7 @@ _Italico tambem_
 2. topico 2
 
 Exemplo   | Valor do exemplo
---------- | ------
+---------- | ------
 Exemplo 1 | R$ 10
 Exemplo 2 | R$ 8
 Exemplo 3 | R$ 7
